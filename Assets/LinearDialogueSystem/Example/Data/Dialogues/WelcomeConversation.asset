@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c30887dc599cce342854d62e02caa1d3, type: 3}
+  m_Name: WelcomeConversation
+  m_EditorClassIdentifier: 
+  Entries:
+  - _character: {fileID: 11400000, guid: a989bcbdf11ac444b94302c4cf4f432a, type: 2}
+    _line: Hello there, this is a welcoming message of just one line or two said
+      by the first character...
+  - _character: {fileID: 11400000, guid: a989bcbdf11ac444b94302c4cf4f432a, type: 2}
+    _line: Who apparently likes to talk, so they have two full dialogue entries,
+      and when the carater remains, only the text updates.
+  - _character: {fileID: 11400000, guid: 70ffd29f978e0a44c94c5db039d7c065, type: 2}
+    _line: Then you get a dialogue line from another character to show the change
+      character feature!
