@@ -11,10 +11,5 @@ namespace LW.DialogueSystem
         {
             OnLinearConversationTriggered?.Invoke(conversation);
         }
-
-        private void OnDestroy()
-        {
-            OnLinearConversationTriggered = null;
-        }
     }
 }
