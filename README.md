@@ -1,4 +1,4 @@
-# BasicDialogueSystem
+# LinearDialogueSystem
 A basic NPC linear dialogue system. Define conversations and triggers and then the associated view displays the content.
 
 https://github.com/lorenaweder/BasicDialogueSystem/assets/13229280/e415f633-1c40-443a-82cb-247f7cb85512
